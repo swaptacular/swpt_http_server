@@ -1,0 +1,12 @@
+.gitignore
+.dockerignore
+.env
+.git/
+.github/
+hooks/
+
+# Emacs files
+**/*~
+**/TAGS
+**/.projectile
+**/.dir-locals.el

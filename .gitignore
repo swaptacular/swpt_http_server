@@ -1,0 +1,12 @@
+/.vscode/
+/.log/
+.DS_Store
+
+# Emacs files
+TAGS
+*~
+.dir-locals.el
+
+# dotenv environment variables file
+.env
+.env.test
